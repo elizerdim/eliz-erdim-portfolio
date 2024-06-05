@@ -1,0 +1,30 @@
+/* UTILITY CLASSES */
+.heading-xl {
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 5.5rem;
+  letter-spacing: -0.15625rem;
+  color: var(--clr-font-primary);
+}
+
+.heading-l {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 3.5rem;
+  letter-spacing: -0.09375rem;
+  color: var(--clr-font-primary);
+}
+
+.heading-m {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 2rem;
+  color: var(--clr-font-primary);
+}
+
+.body-l {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.75rem;
+  color: var(--clr-font-secondary);
+}
