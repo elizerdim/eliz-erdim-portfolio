@@ -1,6 +1,7 @@
 .header {
   margin-top: .5rem;
   position: absolute;
+  z-index: 999;
   width: 100%;
 }
 
