@@ -13,6 +13,9 @@
 
 @media only screen and (min-width: 24em) {
   .header {
-    margin-top: 1rem;
+
+@media only screen and (min-width: 78em) {
+  .header {
+    padding-right: 4rem;
   }
 }
