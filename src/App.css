@@ -35,15 +35,6 @@
   color: var(--clr-font-secondary);
 }
 
-.social-links {
-  display: flex;
-  gap: 1rem;
-}
-
-.social-icon {
-  font-size: 1.5em;
-}
-
 @media only screen and (min-width: 24em) {
   .heading-xl {
     font-size: 4.5rem;
@@ -55,15 +46,6 @@
 
   .heading-m {
     font-size: 2rem;
-  }
-
-  .social-links {
-    display: flex;
-    gap: 1.5rem;
-  }
-
-  .social-icon {
-    font-size: 2em;
   }
 }
 

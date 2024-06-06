@@ -1,0 +1,19 @@
+.links {
+  display: flex;
+  gap: 1rem;
+}
+
+.icon {
+  font-size: 1.5em;
+}
+
+@media only screen and (min-width: 24em) {
+  .links {
+    display: flex;
+    gap: 1.5rem;
+  }
+
+  .icon {
+    font-size: 2em;
+  }
+}
