@@ -18,7 +18,7 @@
 }
 
 @media only screen and (min-width: 78em) {
-  .header {
-    padding-right: 4rem;
+  .header > *:first-child {
+    padding-right: 2rem;
   }
 }
