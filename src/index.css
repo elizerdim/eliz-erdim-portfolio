@@ -28,6 +28,12 @@
   box-sizing: border-box;
 }
 
+/* Make pseudo-elements display block */
+*::before,
+*::after {
+  display: block;
+}
+
 /* Prevent font size inflation */
 html {
   -moz-text-size-adjust: none;
