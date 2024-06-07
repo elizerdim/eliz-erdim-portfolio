@@ -17,7 +17,7 @@
   }
 }
 
-@media only screen and (min-width: 78em) {
+@media only screen and (min-width: 55em) {
   .header > *:first-child {
     padding-right: 2rem;
   }
