@@ -1,0 +1,15 @@
+.divider {
+  margin-top: 4rem;
+}
+
+@media only screen and (min-width: 40em) {
+  .divider {
+    margin-top: 3.75rem;
+  }
+}
+
+@media only screen and (min-width: 55em) {
+  .divider {
+    margin-top: 2rem;
+  }
+}
