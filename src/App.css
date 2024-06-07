@@ -8,8 +8,8 @@
 .heading-xl {
   font-size: 2.5rem;
   font-weight: 700;
-  line-height: 5.5rem;
-  letter-spacing: -0.15625rem;
+  line-height: 1;
+  letter-spacing: -.025em;
   color: var(--clr-font-primary);
 }
 
@@ -35,9 +35,10 @@
   color: var(--clr-font-secondary);
 }
 
-@media only screen and (min-width: 24em) {
+@media only screen and (min-width: 28em) {
   .heading-xl {
-    font-size: 4.5rem;
+    font-size: 4rem;
+    line-height: 4.5rem;
   }
   
   .heading-l {
@@ -49,8 +50,10 @@
   }
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 55em) {
   .heading-xl {
     font-size: 5.5rem;
+    line-height: 6.5rem;
+    letter-spacing: -0.15625rem;
   }
 }
