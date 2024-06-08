@@ -1,0 +1,62 @@
+.section {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 150px; 
+  margin-bottom: -150px;
+  margin-top: 3rem;
+  padding-left: .5rem;
+}
+
+.section::after {
+  content: url(/3d-circles.png);
+  position: absolute;
+  z-index: -999;
+  bottom: 30px;
+  right: -350px;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  color: var(--clr-primary);
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+
+  background-color: var(--clr-font-primary);
+  padding: .25rem 0.75rem;
+}
+
+@media only screen and (min-width: 40em) {
+  .section {
+    margin-top: 3.75rem;
+  }
+
+  .section::after {
+    right: -200px;
+  }
+}
+
+@media only screen and (min-width: 55em) {
+  .section {
+    margin-top: 2rem;
+  }
+
+  .section::after {
+    bottom: 70px;
+  }
+  
+  .skill {
+    padding: .5rem 1.25rem;
+  }
+}
+      
+@media only screen and (min-width: 75em) {
+  .section::after {
+    right: -100px;
+  }
+}

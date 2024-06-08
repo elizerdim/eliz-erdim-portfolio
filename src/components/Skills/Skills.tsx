@@ -1,3 +1,4 @@
+import styles from "./skills.module.css"
 import skills from "../../data/skills.json";
 import { FaReact, FaHtml5, FaCss3Alt } from "react-icons/fa";
 import { SiTypescript, SiJavascript } from "react-icons/si";
@@ -32,18 +33,20 @@ function Icon({ icon }: { icon: IconType }) {
 
 export default function Skills() {
   return (
-    <section>
-      <h3 className="sr-only">Skills</h3>
-      <article>
-        {skills.map((skill) => {
-          return (
-            <div key={skill.name} className="skill">
-              <Icon icon={icons[skill.iconName]} />
-              <p>{skill.name}</p>
-            </div>
-          );
-        })}
-      </article>
+    <section className={styles.section}>
+      <div className="container">
+        <h3 className="sr-only">Skills</h3>
+        <article className={`heading-l ${styles.skills}`}>
+          {skills.map((skill) => {
+            return (
+              <article key={skill.name} className={styles.skill}>
+                <Icon icon={icons[skill.iconName]} />
+                <p>{skill.name}</p>
+              </article>
+            );
+          })}
+        </article>
+      </div>
     </section>
   );
 }
