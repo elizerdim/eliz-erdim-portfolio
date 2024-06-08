@@ -5,7 +5,7 @@
 }
 
 .hero::before {
-  content: url(/public/3d-circles.png);
+  content: url(/3d-circles.png);
   position: absolute;
   z-index: -999;
   top: 100px;
