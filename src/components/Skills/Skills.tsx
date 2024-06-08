@@ -1,8 +1,7 @@
 import skills from "../../data/skills.json";
 import { FaReact, FaHtml5, FaCss3Alt } from "react-icons/fa";
-import { SiTypescript } from "react-icons/si";
+import { SiTypescript, SiJavascript } from "react-icons/si";
 import { IoAccessibility } from "react-icons/io5";
-import { IoLogoJavascript } from "react-icons/io";
 import { PiFileCodeLight } from "react-icons/pi";
 import { BiGridVertical } from "react-icons/bi";
 import { BsGrid3X2 } from "react-icons/bs";
@@ -18,8 +17,8 @@ const icons: iconsObj = {
   FaHtml5,
   FaCss3Alt,
   SiTypescript,
+  SiJavascript,
   IoAccessibility,
-  IoLogoJavascript,
   PiFileCodeLight,
   BiGridVertical,
   BsGrid3X2,
