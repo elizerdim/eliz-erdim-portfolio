@@ -1,0 +1,42 @@
+[
+  {
+    "name": "React",
+    "iconName": "FaReact"
+  },
+  {
+    "name": "TypeScript",
+    "iconName": "SiTypescript"
+  },
+  {
+    "name": "HTML",
+    "iconName": "FaHtml5"
+  },
+  {
+    "name": "CSS",
+    "iconName": "FaCss3Alt"
+  },
+  {
+    "name": "Accessibility",
+    "iconName": "IoAccessibility"
+  },
+  {
+    "name": "JavaScript",
+    "iconName": "IoLogoJavascript"
+  },
+  {
+    "name": "ES6",
+    "iconName": "PiFileCodeLight"
+  },
+  {
+    "name": "Flexbox",
+    "iconName": "BiGridVertical"
+  },
+  {
+    "name": "Grid",
+    "iconName": "BsGrid3X2"
+  },
+  {
+    "name": "Semantic HTML",
+    "iconName": "LuCode2"
+  }
+]
