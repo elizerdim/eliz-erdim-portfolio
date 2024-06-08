@@ -26,10 +26,10 @@
 }
 
 .heading-l {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.25em;
-  letter-spacing: -0.025em;
+  letter-spacing: -0.045em;
   color: var(--clr-font-primary);
 }
 
@@ -53,7 +53,8 @@
   }
   
   .heading-l {
-    font-size: 3rem;
+    font-size: 2.5rem;
+    letter-spacing: -0.025em;
   }
 
   .heading-m {
@@ -65,6 +66,11 @@
   .heading-xl {
     font-size: 5.5rem;
     letter-spacing: -0.03em;
+  }
+
+  .heading-l {
+    font-size: 3rem;
+    letter-spacing: -0.025em;
   }
 }
 
