@@ -9,11 +9,11 @@ import { BsGrid3X2 } from "react-icons/bs";
 import { LuCode2 } from "react-icons/lu";
 import { IconType } from "react-icons";
 
-type iconsObj = {
+type Icons = {
   [prop: string]: IconType;
 }
 
-const icons: iconsObj = {
+const icons: Icons = {
   FaReact,
   FaHtml5,
   FaCss3Alt,
