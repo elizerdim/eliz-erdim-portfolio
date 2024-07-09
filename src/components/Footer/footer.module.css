@@ -1,23 +1,22 @@
 .footer {
   background-color: var(--clr-secondary);
-  padding: 3rem 0;  
+  padding: 4rem 0;  
   position: relative;
   overflow: hidden;
-  margin-top: 3rem;
-  text-align: center;
+  margin-top: 7rem;
 }
 
 .footer::before {
   content: url(/3d-circles.png);
   position: absolute;
   z-index: 999;
-  bottom: 30%;
-  left: -420px;
+  bottom: 28%;
+  right: -400px;
 }
 
 .text {
-  margin: 1rem auto 0;
-  max-width: 45ch;
+  margin-top: 1.5rem;
+  max-width: 38ch;
 }
 
 .links {
@@ -35,9 +34,13 @@ hr {
 }
 
 @media only screen and (min-width: 28em) {
+  .footer {
+    margin-top: 8rem;
+    padding: 4rem 0;
+  }
+
   .footer::before {
-    /* bottom: 30%; */
-    left: -350px;
+    right: -300px;
   }
 
   .email {
@@ -46,22 +49,31 @@ hr {
 }
 
 @media only screen and (min-width: 40em) {
+  .footer {
+    margin-top: 8rem;
+  }
+
   .footer::before {
-    /* bottom: 35%; */
-    left: -220px;
+    bottom: unset;
+    top: 5%;
+    right: -220px;
+  }
+
+  .text {
+    max-width: 45ch;
   }
 }
 
 @media only screen and (min-width: 55em) {
   .footer {
     text-align: left;
+    margin-top: 8rem;
   }
 
   .footer::before {
-    bottom: unset;
+    top: 15%;
     left: unset;
     right: -250px;
-    top: 15%;
   }
 
   .text {
@@ -74,6 +86,10 @@ hr {
 }
 
 @media only screen and (min-width: 75em) {
+  .footer {
+    margin-top: 8rem;
+  }
+
   .footer::before {
     right: -100px;
   }
