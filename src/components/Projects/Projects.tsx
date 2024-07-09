@@ -23,7 +23,7 @@ export default function Projects({ heading, projects }: ProjectsProps) {
         <article className={styles.grid}>
           {projects.map((project) => {
             return (
-              <article key={project.name.split(" ").join("")}>
+              <article key={project.name.split(" ").join("")} className={styles.card}>
                 <img
                   className={styles.img}
                   src={project.img}
