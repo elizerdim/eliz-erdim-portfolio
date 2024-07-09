@@ -16,42 +16,34 @@
     "preview": "https://entertainment-web-app-kohl.vercel.app/"
   },
   {
-    "name": "Rock-Paper-Scissors",
-    "category": "main",
-    "img": "/project-images/rock-paper-scissors.png",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "code": "https://github.com/elizerdim/rock-paper-scissors",
-    "preview": "https://elizerdim.github.io/rock-paper-scissors/"
+    "name": "Eloboost",
+    "category": "freelance",
+    "img": "/project-images/eloboost.png",
+    "technologies": ["HTML", "CSS", "JavaScript"]
   },
   {
     "name": "Book Library",
-    "category": "main",
+    "category": "early",
     "img": "/project-images/book-library.png",
     "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
     "code": "https://github.com/elizerdim/book-library",
     "preview": "https://elizerdim.github.io/book-library/"
   },
   {
-    "name": "Etch A Sketch",
-    "category": "main",
-    "img": "/project-images/etch-a-sketch.jpeg",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "code": "https://github.com/elizerdim/etch-a-sketch",
-    "preview": "https://elizerdim.github.io/etch-a-sketch/"
-  },
-  {
     "name": "Calculator",
-    "category": "main",
+    "category": "early",
     "img": "/project-images/calculator.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/calculator",
     "preview": "https://elizerdim.github.io/calculator/"
   },
   {
-    "name": "Eloboost",
-    "category": "freelance",
-    "img": "/project-images/eloboost.png",
-    "technologies": ["HTML", "CSS", "JavaScript"]
+    "name": "Etch A Sketch",
+    "category": "early",
+    "img": "/project-images/etch-a-sketch.jpeg",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/etch-a-sketch",
+    "preview": "https://elizerdim.github.io/etch-a-sketch/"
   },
   {
     "name": "Easybank Landing Page",
@@ -60,6 +52,14 @@
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/easybank-landing-page",
     "preview": "https://elizerdim.github.io/easybank-landing-page/"
+  },
+  {
+    "name": "Rock-Paper-Scissors",
+    "category": "early",
+    "img": "/project-images/rock-paper-scissors.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/rock-paper-scissors",
+    "preview": "https://elizerdim.github.io/rock-paper-scissors/"
   },
   {
     "name": "Hold Shift and Check Boxes",
@@ -102,20 +102,20 @@
     "preview": "https://elizerdim.github.io/chat-app-css-illustration/"
   },
   {
-    "name": "NFT Preview Card Component",
-    "category": "early",
-    "img": "/project-images/nft-preview-card-component.png",
-    "technologies": ["HTML", "CSS"],
-    "code": "https://github.com/elizerdim/nft-preview-card-component",
-    "preview": "https://elizerdim.github.io/nft-preview-card-component/"
-  },
-  {
     "name": "Social Proof Section",
     "category": "early",
     "img": "/project-images/social-proof-section.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/social-proof-section",
     "preview": "https://elizerdim.github.io/social-proof-section/"
+  },
+  {
+    "name": "NFT Preview Card Component",
+    "category": "early",
+    "img": "/project-images/nft-preview-card-component.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/nft-preview-card-component",
+    "preview": "https://elizerdim.github.io/nft-preview-card-component/"
   },
   {
     "name": "Stats Preview Card Component",
