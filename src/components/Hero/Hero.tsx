@@ -22,9 +22,10 @@ export default function Hero() {
             am learning, exploring, and thinking about how to make things
             better. Check out my projects below!
           </p>
-          <address className={styles.cta}>
-            Send me an email:
-            <a className={styles.email} href="mailto:elizerdim@gmail.com"> elizerdim@gmail.com</a>
+          <address className={styles.email}>
+            <a href="mailto:elizerdim@gmail.com">
+              <span className={styles.cta}>Send me an email:</span> elizerdim@gmail.com
+            </a>
           </address>
           <div className={styles.links}>
             <SocialLinks />
