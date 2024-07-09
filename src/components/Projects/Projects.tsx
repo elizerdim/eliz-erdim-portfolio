@@ -45,13 +45,6 @@ export default function Projects({ heading, projects }: ProjectsProps) {
                   </div>
                 )}
                 <h4 className={`${styles.name} heading-m`}>{project.name}</h4>
-                <div className={styles.tech}>
-                  {project.technologies.map((tech) => (
-                    <p key={tech} className="body-l">
-                      {tech}
-                    </p>
-                  ))}
-                </div>
                 {heading === "Freelance Work" ? (
                   <p className={`${styles.explanation} body-l`}>
                     This was paid work - code is available upon request for
@@ -75,6 +68,13 @@ export default function Projects({ heading, projects }: ProjectsProps) {
                     </a>
                   </div>
                 )}
+                <div className={styles.tech}>
+                  {project.technologies.map((tech) => (
+                    <p key={tech} className="body-l">
+                      {tech}
+                    </p>
+                  ))}
+                </div>
                 <p className={styles.description}>{project.description}</p>
               </article>
             );
