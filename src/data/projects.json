@@ -5,7 +5,8 @@
     "img": "/project-images/rest-countries-api.png",
     "technologies": ["HTML", "CSS", "React", "TypeScript"],
     "code": "https://github.com/elizerdim/rest-coutries-api",
-    "preview": "https://rest-coutries-api-six.vercel.app/"
+    "preview": "https://rest-coutries-api-six.vercel.app/",
+    "description": ""
   },
   {
     "name": "Entertainment Web App",
@@ -13,13 +14,15 @@
     "img": "/project-images/entertainment-web-app.png",
     "technologies": ["HTML", "CSS", "React", "TypeScript"],
     "code": "https://github.com/elizerdim/entertainment-web-app",
-    "preview": "https://entertainment-web-app-kohl.vercel.app/"
+    "preview": "https://entertainment-web-app-kohl.vercel.app/",
+    "description": ""
   },
   {
-    "name": "Eloboost",
+    "name": "Gaming Products Website",
     "category": "freelance",
-    "img": "/project-images/eloboost.png",
-    "technologies": ["HTML", "CSS", "JavaScript"]
+    "img": "/project-images/gaming-products-website.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "description": ""
   },
   {
     "name": "Book Library",
@@ -27,7 +30,8 @@
     "img": "/project-images/book-library.png",
     "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
     "code": "https://github.com/elizerdim/book-library",
-    "preview": "https://elizerdim.github.io/book-library/"
+    "preview": "https://elizerdim.github.io/book-library/",
+    "description": ""
   },
   {
     "name": "Calculator",
@@ -35,7 +39,8 @@
     "img": "/project-images/calculator.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/calculator",
-    "preview": "https://elizerdim.github.io/calculator/"
+    "preview": "https://elizerdim.github.io/calculator/",
+    "description": ""
   },
   {
     "name": "Etch A Sketch",
@@ -43,7 +48,8 @@
     "img": "/project-images/etch-a-sketch.jpeg",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/etch-a-sketch",
-    "preview": "https://elizerdim.github.io/etch-a-sketch/"
+    "preview": "https://elizerdim.github.io/etch-a-sketch/",
+    "description": ""
   },
   {
     "name": "Easybank Landing Page",
@@ -51,7 +57,8 @@
     "img": "/project-images/easybank-landing-page.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/easybank-landing-page",
-    "preview": "https://elizerdim.github.io/easybank-landing-page/"
+    "preview": "https://elizerdim.github.io/easybank-landing-page/",
+    "description": ""
   },
   {
     "name": "Rock-Paper-Scissors",
@@ -59,7 +66,8 @@
     "img": "/project-images/rock-paper-scissors.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/rock-paper-scissors",
-    "preview": "https://elizerdim.github.io/rock-paper-scissors/"
+    "preview": "https://elizerdim.github.io/rock-paper-scissors/",
+    "description": ""
   },
   {
     "name": "Hold Shift and Check Boxes",
@@ -67,7 +75,8 @@
     "img": "/project-images/hold-shift-and-check-boxes.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/hold-shift-and-check-boxes",
-    "preview": "https://elizerdim.github.io/hold-shift-and-check-boxes/"
+    "preview": "https://elizerdim.github.io/hold-shift-and-check-boxes/",
+    "description": ""
   },
   {
     "name": "JavaScript Clock",
@@ -75,7 +84,8 @@
     "img": "/project-images/javascript-clock.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/javascript-clock",
-    "preview": "https://elizerdim.github.io/javascript-clock/"
+    "preview": "https://elizerdim.github.io/javascript-clock/",
+    "description": ""
   },
   {
     "name": "JavaScript CSS Variables",
@@ -83,7 +93,8 @@
     "img": "/project-images/javascript-css-variables.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/javascript-css-variables",
-    "preview": "https://elizerdim.github.io/javascript-css-variables/"
+    "preview": "https://elizerdim.github.io/javascript-css-variables/",
+    "description": ""
   },
   {
     "name": "JavaScript Drum Kit",
@@ -91,7 +102,8 @@
     "img": "/project-images/javascript-drum-kit.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/javascript-drum-kit",
-    "preview": "https://elizerdim.github.io/javascript-drum-kit/"
+    "preview": "https://elizerdim.github.io/javascript-drum-kit/",
+    "description": ""
   },
   {
     "name": "Chat App CSS Illustration",
@@ -99,7 +111,8 @@
     "img": "/project-images/chat-app-css-illustration.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/chat-app-css-illustration",
-    "preview": "https://elizerdim.github.io/chat-app-css-illustration/"
+    "preview": "https://elizerdim.github.io/chat-app-css-illustration/",
+    "description": ""
   },
   {
     "name": "Social Proof Section",
@@ -107,7 +120,8 @@
     "img": "/project-images/social-proof-section.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/social-proof-section",
-    "preview": "https://elizerdim.github.io/social-proof-section/"
+    "preview": "https://elizerdim.github.io/social-proof-section/",
+    "description": ""
   },
   {
     "name": "NFT Preview Card Component",
@@ -115,7 +129,8 @@
     "img": "/project-images/nft-preview-card-component.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/nft-preview-card-component",
-    "preview": "https://elizerdim.github.io/nft-preview-card-component/"
+    "preview": "https://elizerdim.github.io/nft-preview-card-component/",
+    "description": ""
   },
   {
     "name": "Stats Preview Card Component",
@@ -123,7 +138,8 @@
     "img": "/project-images/stats-preview-card-component.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/stats-preview-card-component",
-    "preview": "https://elizerdim.github.io/stats-preview-card-component/"
+    "preview": "https://elizerdim.github.io/stats-preview-card-component/",
+    "description": ""
   },
   {
     "name": "3-Column Preview Card Component",
@@ -131,7 +147,8 @@
     "img": "/project-images/3-column-preview-card-component.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/3-column-preview-card-component",
-    "preview": "https://elizerdim.github.io/3-column-preview-card-component/"
+    "preview": "https://elizerdim.github.io/3-column-preview-card-component/",
+    "description": ""
   },
   {
     "name": "Results Summary Component",
@@ -139,7 +156,8 @@
     "img": "/project-images/results-summary-component.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/results-summary-component",
-    "preview": "https://elizerdim.github.io/results-summary-component/"
+    "preview": "https://elizerdim.github.io/results-summary-component/",
+    "description": ""
   },
   {
     "name": "Responsive Layouts Final Challenge",
@@ -147,7 +165,8 @@
     "img": "/project-images/responsive-layouts-final-challenge.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/responsive-layouts-final-challenge",
-    "preview": "https://elizerdim.github.io/responsive-layouts-final-challenge/"
+    "preview": "https://elizerdim.github.io/responsive-layouts-final-challenge/",
+    "description": ""
   },
   {
     "name": "Personal Portfolio Webpage",
@@ -155,7 +174,8 @@
     "img": "/project-images/personal-portfolio-webpage.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/personal-portfolio-webpage",
-    "preview": "https://elizerdim.github.io/personal-portfolio-webpage/"
+    "preview": "https://elizerdim.github.io/personal-portfolio-webpage/",
+    "description": "5/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Product Landing Page",
@@ -163,7 +183,8 @@
     "img": "/project-images/product-landing-page.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/product-landing-page",
-    "preview": "https://elizerdim.github.io/product-landing-page/"
+    "preview": "https://elizerdim.github.io/product-landing-page/",
+    "description": "4/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Technical Documentation Page",
@@ -171,7 +192,8 @@
     "img": "/project-images/technical-documentation-page.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/technical-documentation-page",
-    "preview": "https://elizerdim.github.io/technical-documentation-page/"
+    "preview": "https://elizerdim.github.io/technical-documentation-page/",
+    "description": "3/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Tribute Page",
@@ -179,7 +201,8 @@
     "img": "/project-images/tribute-page.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/tribute-page",
-    "preview": "https://elizerdim.github.io/tribute-page/"
+    "preview": "https://elizerdim.github.io/tribute-page/",
+    "description": "2/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Survey Form",
@@ -187,6 +210,7 @@
     "img": "/project-images/survey-form.png",
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/survey-form",
-    "preview": "https://elizerdim.github.io/survey-form/"
+    "preview": "https://elizerdim.github.io/survey-form/",
+    "description": "1/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   }
 ]

@@ -7,6 +7,7 @@ type Project = {
   technologies: string[];
   code?: string;
   preview?: string;
+  description: string;
 };
 
 type ProjectsProps = {
@@ -48,6 +49,7 @@ export default function Projects({ heading, projects }: ProjectsProps) {
                     </a>
                   </div>
                 )}
+                <p className={styles.description}>{project.description}</p>
               </article>
             );
           })}
