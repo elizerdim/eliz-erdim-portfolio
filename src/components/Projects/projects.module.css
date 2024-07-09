@@ -17,10 +17,24 @@
   margin-top: 1.5rem;
 }
 
+.zoom-container {
+  overflow: hidden;
+}
+
 .img {
   aspect-ratio: 35 / 25;
   object-fit: cover;
   object-position: top center;
+}
+
+.zoom {
+  transition: 0.5s transform ease-in-out;
+}
+
+@media (any-hover: hover) and (any-pointer: fine) {
+  .zoom:hover {
+    transform: scale(1.1);
+  }
 }
 
 .tech {

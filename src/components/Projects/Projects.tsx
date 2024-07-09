@@ -23,12 +23,27 @@ export default function Projects({ heading, projects }: ProjectsProps) {
         <article className={styles.grid}>
           {projects.map((project) => {
             return (
-              <article key={project.name.split(" ").join("")} className={styles.card}>
-                <img
-                  className={styles.img}
-                  src={project.img}
-                  alt="Project Visual"
-                />
+              <article
+                key={project.name.split(" ").join("")}
+                className={styles.card}
+              >
+                {heading === "Freelance Work" ? (
+                  <img
+                    className={styles.img}
+                    src={project.img}
+                    alt="Project Visual"
+                  />
+                ) : (
+                  <div className={styles["zoom-container"]}>
+                    <a href={project.preview} target="_blank">
+                      <img
+                        className={`${styles.img} ${styles.zoom}`}
+                        src={project.img}
+                        alt="Project Visual"
+                      />
+                    </a>
+                  </div>
+                )}
                 <h4 className={`${styles.name} heading-m`}>{project.name}</h4>
                 <div className={styles.tech}>
                   {project.technologies.map((tech) => (
@@ -38,13 +53,24 @@ export default function Projects({ heading, projects }: ProjectsProps) {
                   ))}
                 </div>
                 {heading === "Freelance Work" ? (
-                  <p className={`${styles.explanation} body-l`}>This was paid work - code is available upon request for privacy reasons</p>
+                  <p className={`${styles.explanation} body-l`}>
+                    This was paid work - code is available upon request for
+                    privacy reasons
+                  </p>
                 ) : (
                   <div className={styles.buttons}>
-                    <a className={styles.button} href={project.code} target="_blank">
+                    <a
+                      className={styles.button}
+                      href={project.code}
+                      target="_blank"
+                    >
                       Code
                     </a>
-                    <a className={styles.button} href={project.preview} target="_blank">
+                    <a
+                      className={styles.button}
+                      href={project.preview}
+                      target="_blank"
+                    >
                       Preview
                     </a>
                   </div>
