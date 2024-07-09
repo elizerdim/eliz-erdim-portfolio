@@ -1,0 +1,80 @@
+.footer {
+  background-color: var(--clr-secondary);
+  padding: 3rem 0;  
+  position: relative;
+  overflow: hidden;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.footer::before {
+  content: url(/3d-circles.png);
+  position: absolute;
+  z-index: 999;
+  bottom: 30%;
+  left: -420px;
+}
+
+.text {
+  margin: 1rem auto 0;
+  max-width: 45ch;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8rem;
+}
+
+.email {
+  font-style: normal;
+}
+
+hr {
+  margin-top: 1rem;
+}
+
+@media only screen and (min-width: 28em) {
+  .footer::before {
+    /* bottom: 30%; */
+    left: -350px;
+  }
+
+  .email {
+    font-size: 1.25rem;
+  }
+}
+
+@media only screen and (min-width: 40em) {
+  .footer::before {
+    /* bottom: 35%; */
+    left: -220px;
+  }
+}
+
+@media only screen and (min-width: 55em) {
+  .footer {
+    text-align: left;
+  }
+
+  .footer::before {
+    bottom: unset;
+    left: unset;
+    right: -250px;
+    top: 15%;
+  }
+
+  .text {
+    margin: 1rem 0 0;
+  }
+
+  .email {
+    font-size: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 75em) {
+  .footer::before {
+    right: -100px;
+  }
+}
