@@ -1,0 +1,48 @@
+.heading {
+  margin-top: 4rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25em, 1fr));
+  gap: 3rem;
+  margin-top: 3rem;
+}
+
+.name {
+  margin-top: 1.5rem;
+}
+
+.img {
+  aspect-ratio: 35 / 25;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.tech {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.button {
+  text-decoration: underline;
+  text-underline-offset: .25em;
+  text-decoration-color: var(--clr-accent);
+  font-size: 1.75rem;
+  font-weight: bold;
+  border-radius: 1000px;
+}
+
+.explanation {
+  margin-top: 1rem;
+  color: rgb(180, 180, 180);
+}
+
+/* TODO: add media queries for some gaps and font sizes */

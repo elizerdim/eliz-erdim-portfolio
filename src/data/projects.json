@@ -1,0 +1,192 @@
+[
+  {
+    "name": "REST Countries API",
+    "category": "main",
+    "img": "/project-images/rest-countries-api.png",
+    "technologies": ["HTML", "CSS", "React", "TypeScript"],
+    "code": "https://github.com/elizerdim/rest-coutries-api",
+    "preview": "https://rest-coutries-api-six.vercel.app/"
+  },
+  {
+    "name": "Entertainment Web App",
+    "category": "main",
+    "img": "/project-images/entertainment-web-app.png",
+    "technologies": ["HTML", "CSS", "React", "TypeScript"],
+    "code": "https://github.com/elizerdim/entertainment-web-app",
+    "preview": "https://entertainment-web-app-kohl.vercel.app/"
+  },
+  {
+    "name": "Rock-Paper-Scissors",
+    "category": "main",
+    "img": "/project-images/rock-paper-scissors.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/rock-paper-scissors",
+    "preview": "https://elizerdim.github.io/rock-paper-scissors/"
+  },
+  {
+    "name": "Book Library",
+    "category": "main",
+    "img": "/project-images/book-library.png",
+    "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
+    "code": "https://github.com/elizerdim/book-library",
+    "preview": "https://elizerdim.github.io/book-library/"
+  },
+  {
+    "name": "Etch A Sketch",
+    "category": "main",
+    "img": "/project-images/etch-a-sketch.jpeg",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/etch-a-sketch",
+    "preview": "https://elizerdim.github.io/etch-a-sketch/"
+  },
+  {
+    "name": "Calculator",
+    "category": "main",
+    "img": "/project-images/calculator.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/calculator",
+    "preview": "https://elizerdim.github.io/calculator/"
+  },
+  {
+    "name": "Eloboost",
+    "category": "freelance",
+    "img": "/project-images/eloboost.png",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Easybank Landing Page",
+    "category": "early",
+    "img": "/project-images/easybank-landing-page.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/easybank-landing-page",
+    "preview": "https://elizerdim.github.io/easybank-landing-page/"
+  },
+  {
+    "name": "Hold Shift and Check Boxes",
+    "category": "early",
+    "img": "/project-images/hold-shift-and-check-boxes.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/hold-shift-and-check-boxes",
+    "preview": "https://elizerdim.github.io/hold-shift-and-check-boxes/"
+  },
+  {
+    "name": "JavaScript Clock",
+    "category": "early",
+    "img": "/project-images/javascript-clock.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/javascript-clock",
+    "preview": "https://elizerdim.github.io/javascript-clock/"
+  },
+  {
+    "name": "JavaScript CSS Variables",
+    "category": "early",
+    "img": "/project-images/javascript-css-variables.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/javascript-css-variables",
+    "preview": "https://elizerdim.github.io/javascript-css-variables/"
+  },
+  {
+    "name": "JavaScript Drum Kit",
+    "category": "early",
+    "img": "/project-images/javascript-drum-kit.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/javascript-drum-kit",
+    "preview": "https://elizerdim.github.io/javascript-drum-kit/"
+  },
+  {
+    "name": "Chat App CSS Illustration",
+    "category": "early",
+    "img": "/project-images/chat-app-css-illustration.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/chat-app-css-illustration",
+    "preview": "https://elizerdim.github.io/chat-app-css-illustration/"
+  },
+  {
+    "name": "NFT Preview Card Component",
+    "category": "early",
+    "img": "/project-images/nft-preview-card-component.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/nft-preview-card-component",
+    "preview": "https://elizerdim.github.io/nft-preview-card-component/"
+  },
+  {
+    "name": "Social Proof Section",
+    "category": "early",
+    "img": "/project-images/social-proof-section.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/social-proof-section",
+    "preview": "https://elizerdim.github.io/social-proof-section/"
+  },
+  {
+    "name": "Stats Preview Card Component",
+    "category": "early",
+    "img": "/project-images/stats-preview-card-component.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/stats-preview-card-component",
+    "preview": "https://elizerdim.github.io/stats-preview-card-component/"
+  },
+  {
+    "name": "3-Column Preview Card Component",
+    "category": "early",
+    "img": "/project-images/3-column-preview-card-component.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/3-column-preview-card-component",
+    "preview": "https://elizerdim.github.io/3-column-preview-card-component/"
+  },
+  {
+    "name": "Results Summary Component",
+    "category": "early",
+    "img": "/project-images/results-summary-component.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/results-summary-component",
+    "preview": "https://elizerdim.github.io/results-summary-component/"
+  },
+  {
+    "name": "Responsive Layouts Final Challenge",
+    "category": "early",
+    "img": "/project-images/responsive-layouts-final-challenge.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "code": "https://github.com/elizerdim/responsive-layouts-final-challenge",
+    "preview": "https://elizerdim.github.io/responsive-layouts-final-challenge/"
+  },
+  {
+    "name": "Personal Portfolio Webpage",
+    "category": "early",
+    "img": "/project-images/personal-portfolio-webpage.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/personal-portfolio-webpage",
+    "preview": "https://elizerdim.github.io/personal-portfolio-webpage/"
+  },
+  {
+    "name": "Product Landing Page",
+    "category": "early",
+    "img": "/project-images/product-landing-page.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/product-landing-page",
+    "preview": "https://elizerdim.github.io/product-landing-page/"
+  },
+  {
+    "name": "Technical Documentation Page",
+    "category": "early",
+    "img": "/project-images/technical-documentation-page.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/technical-documentation-page",
+    "preview": "https://elizerdim.github.io/technical-documentation-page/"
+  },
+  {
+    "name": "Tribute Page",
+    "category": "early",
+    "img": "/project-images/tribute-page.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/tribute-page",
+    "preview": "https://elizerdim.github.io/tribute-page/"
+  },
+  {
+    "name": "Survey Form",
+    "category": "early",
+    "img": "/project-images/survey-form.png",
+    "technologies": ["HTML", "CSS"],
+    "code": "https://github.com/elizerdim/survey-form",
+    "preview": "https://elizerdim.github.io/survey-form/"
+  }
+]
