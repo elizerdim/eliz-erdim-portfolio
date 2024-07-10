@@ -19,3 +19,9 @@
     font-size: 3em;
   }
 }
+
+@media (any-hover: hover) and (any-pointer: fine) {
+  .icon:hover {
+    fill: var(--clr-accent);
+  }
+}

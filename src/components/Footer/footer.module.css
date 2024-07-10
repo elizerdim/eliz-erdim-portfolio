@@ -95,3 +95,9 @@ hr {
     right: -100px;
   }
 }
+
+@media (any-hover: hover) and (any-pointer: fine) {
+  .email:hover {
+    color: var(--clr-accent);
+  }
+}

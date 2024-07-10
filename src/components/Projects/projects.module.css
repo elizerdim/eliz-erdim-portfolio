@@ -95,3 +95,9 @@
     margin-top: 0;
   }
 }
+
+@media (any-hover: hover) and (any-pointer: fine) {
+  .button:hover {
+    transform: translateY(.1em)
+  }
+}

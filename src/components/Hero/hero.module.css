@@ -41,6 +41,7 @@
 }
 
 .name {
+  /* display: inline-block; */
   text-underline-offset: .25em;
 }
 
@@ -166,5 +167,16 @@
   .photo {
     aspect-ratio: 1 / 1.85;
     object-position: bottom center;
+  }
+}
+
+@media (any-hover: hover) and (any-pointer: fine) {
+  .name:hover {
+    position: relative;
+    top: .1em;
+  }
+
+  .email:hover {
+    transform: translateY(.25em);
   }
 }
