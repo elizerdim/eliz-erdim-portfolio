@@ -139,7 +139,7 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/stats-preview-card-component",
     "preview": "https://elizerdim.github.io/stats-preview-card-component/",
-    "description": ""
+    "description": "I spent a lot of time making this component look good in mid-size screens. I used flexbox inside another flexbox, which was a good opportunity understand flexbox better. I also improved my research skills for coding and spent a lot of time exploring different CSS properties, especially filter, and all of its functions."
   },
   {
     "name": "3-Column Preview Card Component",
@@ -148,7 +148,7 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/3-column-preview-card-component",
     "preview": "https://elizerdim.github.io/3-column-preview-card-component/",
-    "description": ""
+    "description": "In this project, I used different flex-directions for different screen sizes, so the cards are stacked on top of each other in smaller screens. I also learned CSS animations and added animation to the car illustrations on hover. I also discovered that adding an outline instead of a border on hover is a good idea for buttons."
   },
   {
     "name": "Results Summary Component",
@@ -157,7 +157,7 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/results-summary-component",
     "preview": "https://elizerdim.github.io/results-summary-component/",
-    "description": ""
+    "description": "This was my first project from Frontend Mentor (www.frontendmentor.io). After learning how to implement responsive design, I wanted to start small and get plenty of practice with my new skills. I learned BEM naming convension, CSS custom properties, @font-face rules, and became more comfortable using CSS."
   },
   {
     "name": "Responsive Layouts Final Challenge",
@@ -166,7 +166,7 @@
     "technologies": ["HTML", "CSS", "JavaScript"],
     "code": "https://github.com/elizerdim/responsive-layouts-final-challenge",
     "preview": "https://elizerdim.github.io/responsive-layouts-final-challenge/",
-    "description": ""
+    "description": "This was the final challenge of an online course on responsive design. I learned a lot from this course and completing its challenges. I started to use a mobile-first approach and understood how and when to use flexbox and grid, and also media queries. This was also the first project where I used git from the start."
   },
   {
     "name": "Personal Portfolio Webpage",
@@ -175,7 +175,7 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/personal-portfolio-webpage",
     "preview": "https://elizerdim.github.io/personal-portfolio-webpage/",
-    "description": "5/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
+    "description": "5/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These were my first ever projects before I started using git, so I completed them locally. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Product Landing Page",
@@ -184,7 +184,7 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/product-landing-page",
     "preview": "https://elizerdim.github.io/product-landing-page/",
-    "description": "4/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
+    "description": "4/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These were my first ever projects before I started using git, so I completed them locally. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Technical Documentation Page",
@@ -193,7 +193,7 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/technical-documentation-page",
     "preview": "https://elizerdim.github.io/technical-documentation-page/",
-    "description": "3/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
+    "description": "3/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These were my first ever projects before I started using git, so I completed them locally. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Tribute Page",
@@ -202,7 +202,7 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/tribute-page",
     "preview": "https://elizerdim.github.io/tribute-page/",
-    "description": "2/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
+    "description": "2/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These were my first ever projects before I started using git, so I completed them locally. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   },
   {
     "name": "Survey Form",
@@ -211,6 +211,6 @@
     "technologies": ["HTML", "CSS"],
     "code": "https://github.com/elizerdim/survey-form",
     "preview": "https://elizerdim.github.io/survey-form/",
-    "description": "1/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These are my first ever projects apart from a very clumsy first attempt. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
+    "description": "1/5 - Five projects from freeCodeCamp's Web Design Certification curriculum. These were my first ever projects before I started using git, so I completed them locally. I felt that I didn't understand how to truly implement responsiveness yet, so I completed these to solidify my knowledge of HTML and CSS so far."
   }
 ]

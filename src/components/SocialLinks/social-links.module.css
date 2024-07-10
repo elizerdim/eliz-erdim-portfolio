@@ -4,7 +4,7 @@
 }
 
 .icon {
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 @media only screen and (min-width: 28em) {
@@ -12,8 +12,10 @@
     display: flex;
     gap: 1.5rem;
   }
+}
 
+@media only screen and (min-width: 40em) {
   .icon {
-    font-size: 2em;
+    font-size: 3em;
   }
 }
