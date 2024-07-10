@@ -1,21 +1,13 @@
 .heading {
   margin-top: 3.5rem;
-  margin-bottom: -4rem;
-}
-
-.grid {
-  margin-top: 2rem;
+  margin-bottom: -3rem;
 }
 
 .card {
   display: flex;
   flex-direction: column;
-  margin-top: 6rem;
-}
-
-.name {
-  margin-top: 1.5rem;
-  margin-bottom: 1rem;
+  margin-top: 4rem;
+  background-color: #ffffff07;
 }
 
 .zoom-container {
@@ -23,6 +15,7 @@
 }
 
 .img {
+  width: 100%;
   aspect-ratio: 35 / 25;
   object-fit: cover;
   object-position: top center;
@@ -38,6 +31,10 @@
   }
 }
 
+.content {
+  padding: 1.5rem 1rem 2rem;
+}
+
 .tech {
   display: flex;
   flex-wrap: wrap;
@@ -48,7 +45,7 @@
 .buttons {
   display: flex;
   gap: 2rem;
-  margin-top: auto;
+  margin-top: 1rem;
 }
 
 .button {
@@ -75,18 +72,10 @@
     margin-top: 5rem;
   }
 
-  .grid {
-    margin-top: 3rem;
-  }
-
-  .tech {
-    margin-top: 1rem;
-  }
-
   .button {
     font-size: 1.75rem;
   }
-}
+} 
 
 @media only screen and (min-width: 40em) {
   .heading {
@@ -96,17 +85,12 @@
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
-    column-gap: 3rem;
-    row-gap: 8rem;
+    column-gap: 2rem;
+    row-gap: 6rem;
+    margin-top: 2rem;
   }
 
   .card {
     margin-top: 0;
-  }
-}
-
-@media only screen and (min-width: 55em) {
-  .grid {
-    margin-top: 4rem;
   }
 }
